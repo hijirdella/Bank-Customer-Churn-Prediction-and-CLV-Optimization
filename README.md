@@ -10,7 +10,7 @@ This project aims to tackle two key challenges in the banking industry:
 **GitHub**: [Bank Customer Churn Prediction and CLV Optimization](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization) <br>
 **Code**: [Python](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization/blob/bf750a1243567280ba185fe6eb8b1714973ee31e/CLV%20%26%20Churn%20Prediction.ipynb) <br>
 **Presentation**: [Deck](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization/blob/7b7f6b640fe50d02b70a3e1dc782c9247b407270/Bank%20Customer%20CLV%20%26%20Churn%20Prediction.pdf) <br>
-**Dataset**: [Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
+**Dataset**: [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
 
 ---
 
