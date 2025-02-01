@@ -8,6 +8,7 @@ This project aims to tackle two key challenges in the banking industry:
 **Author**: Hijir Della Wirasti  
 **LinkedIn**: [Hijir Della Wirasti](https://www.linkedin.com/in/hijirdella/)  
 **GitHub**: [Bank Customer Churn Prediction and CLV Optimization](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization)
+**Dataset**:[Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
 
 ---
 
