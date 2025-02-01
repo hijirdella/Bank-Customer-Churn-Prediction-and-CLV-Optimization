@@ -5,8 +5,7 @@ This project aims to tackle two key challenges in the banking industry:
 1. **Customer Churn Prediction**: Identifying at-risk customers and understanding the factors driving churn.
 2. **Customer Lifetime Value (CLV) Analysis**: Evaluating long-term customer profitability to prioritize retention efforts effectively.
 
-**Author**: Hijir Della Wirasti  
-**LinkedIn**: [Hijir Della Wirasti](https://www.linkedin.com/in/hijirdella/)  
+**Author**: [Hijir Della Wirasti](https://www.linkedin.com/in/hijirdella/)  
 **GitHub**: [Bank Customer Churn Prediction and CLV Optimization](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization) <br>
 **Code**: [Python](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization/blob/bf750a1243567280ba185fe6eb8b1714973ee31e/CLV%20%26%20Churn%20Prediction.ipynb) <br>
 **Presentation**: [Deck](https://github.com/hijirdella/Bank-Customer-Churn-Prediction-and-CLV-Optimization/blob/7b7f6b640fe50d02b70a3e1dc782c9247b407270/Bank%20Customer%20CLV%20%26%20Churn%20Prediction.pdf) <br>
