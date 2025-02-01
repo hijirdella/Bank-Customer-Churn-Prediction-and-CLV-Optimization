@@ -15,7 +15,7 @@ This project aims to tackle two key challenges in the banking industry:
 ---
 
 ## Objectives
-- Develop a machine learning model to predict customer churn with high accuracy and F1-score.
+- Develop a **churn prediction** model using machine learning to identify at-risk customers.
 - Perform CLV segmentation to identify high-value customers and derive actionable insights.
 - Provide practical recommendations to reduce churn and maximize customer lifetime value.
 
